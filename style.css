@@ -102,18 +102,18 @@ body {
     align-items: center;
     margin-bottom: 15px;
 }
-.details h3 {
+.details h2 {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 15px;
 }
 
-.details .p1{
+.details .para1{
     color: var(--cyan);
     font-weight: 600;
 }
-.details .p2 {
+.details .para2 {
     font-weight: 400;
     color: var(--soft-blue);
 }
